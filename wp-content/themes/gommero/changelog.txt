@@ -1,0 +1,62 @@
+Theme Name: Gommero
+========================
+== Changelog ==
+
+* Version 1.1.5
+***************************************
+1. blog.php replaced with a home.php template file.
+2. wp_nav_menu() menu replaced with a theme_location.
+3. Latest blog posts added on front page.
+4. Option added for show on/off posts on front page.
+5. get_option( 'show_on_front' ) user configuration issue fixed.
+
+* Version 1.1.4
+***************************************
+1. Theme url changed.
+2. Removed query_posts and used wp_query instead.
+3. Removed wp_enqueue_script('jquery').
+4. Escaped all urls.
+5. Option added for disable default front page.
+6. Site title and site description added in header, if site logo uploaded via theme option, site title and description will be disappeared.
+7. Removed analytic option.
+8. All supporting function hooked into after_setup_theme hook.
+9. Added plugins notification for recommends plugin.
+10.Replace preg_replace function with ereg_replace.
+
+* Version 1.1.3
+***************************************
+1. Logo should be generic fixed.
+2. Footer link issue fixed.
+
+* Version 1.1.2
+***************************************
+1. Undefined function error fixed;
+
+* Version 1.1.1
+***************************************
+1. Fixed some localize issue.
+2. Removed deprecated image_size function.
+3. Added permalink to post thumbnail
+
+* Version 1.1.0
+***************************************
+1. Custom theme background by using wordpress core function.
+2. Theme style updated.
+3. Removed @package WordPress
+4. Code optimized.
+
+* Version 1.0.7
+***************************************
+1. Theme style updated
+
+* Version 1.0.6
+***************************************
+1. Facebook widget removed.
+2. Horizontal Scrollbar fixed.
+3. Sidebar Widget background doesn't align fixed.
+
+* Version 1.0.1
+***************************************
+1. Theme style updated 
+
+

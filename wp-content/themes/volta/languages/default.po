@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Volta\n"
+"POT-Creation-Date: 2014-07-18 06:39+0530\n"
+"PO-Revision-Date: 2014-07-18 06:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:42
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:67
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: ../archive.php:45
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:54
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: ../archive.php:66 ../footer-widgets.php:6 ../footer-widgets.php:26
+#: ../sidebar.php:87
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:51
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:52
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:10 ../content-quote.php:10 ../content-status.php:10
+#: ../content.php:27
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:14 ../content-audio.php:14 ../content-image.php:14
+#: ../content-link.php:14 ../content-quote.php:14 ../content-status.php:14
+#: ../content-video.php:14
+#, php-format
+msgid "<a rel=\"bookmark\" href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:24 ../content-single.php:27 ../content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:30 ../content-single.php:56 ../content.php:62
+#: ../content.php:66 ../inc/template-tags.php:178 ../inc/template-tags.php:204
+msgid "Edit"
+msgstr ""
+
+#: ../content-single.php:41 ../content.php:47
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content-single.php:52 ../content.php:57
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../footer-widgets.php:15 ../sidebar.php:94
+msgid "Meta"
+msgstr ""
+
+#: ../footer.php:23
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:23
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../footer.php:24
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: ../front-page.php:169
+msgid "More Posts"
+msgstr ""
+
+#: ../functions.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:91
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:100
+msgid "Front Page Middle Sidebar"
+msgstr ""
+
+#: ../functions.php:109
+msgid "Bottom Left Sidebar"
+msgstr ""
+
+#: ../functions.php:118
+msgid "Bottom Center Sidebar"
+msgstr ""
+
+#: ../functions.php:127
+msgid "Bottom Right Sidebar"
+msgstr ""
+
+#: ../header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/customizer.php:20
+msgid "Logo Options"
+msgstr ""
+
+#: ../inc/customizer.php:33
+msgid "Upload a Header Logo"
+msgstr ""
+
+#: ../inc/customizer.php:49
+msgid "Upload a Footer Logo"
+msgstr ""
+
+#: ../inc/customizer.php:58
+msgid "Social Options"
+msgstr ""
+
+#: ../inc/customizer.php:68
+msgid "Show Social Section:"
+msgstr ""
+
+#: ../inc/customizer.php:72 ../inc/customizer.php:331
+#: ../inc/customizer.php:356 ../inc/customizer.php:399
+#: ../inc/customizer.php:412 ../inc/customizer.php:425
+#: ../inc/customizer.php:438 ../inc/customizer.php:451
+#: ../inc/customizer.php:464 ../inc/customizer.php:477
+#: ../inc/customizer.php:490 ../inc/customizer.php:503
+#: ../inc/customizer.php:522 ../inc/customizer.php:535
+#: ../inc/customizer.php:548 ../inc/customizer.php:561
+#: ../inc/customizer.php:580 ../inc/customizer.php:593
+msgid "Yes"
+msgstr ""
+
+#: ../inc/customizer.php:72 ../inc/customizer.php:331
+#: ../inc/customizer.php:356 ../inc/customizer.php:399
+#: ../inc/customizer.php:412 ../inc/customizer.php:425
+#: ../inc/customizer.php:438 ../inc/customizer.php:451
+#: ../inc/customizer.php:464 ../inc/customizer.php:477
+#: ../inc/customizer.php:490 ../inc/customizer.php:503
+#: ../inc/customizer.php:522 ../inc/customizer.php:535
+#: ../inc/customizer.php:548 ../inc/customizer.php:561
+#: ../inc/customizer.php:580 ../inc/customizer.php:593
+msgid "No"
+msgstr ""
+
+#: ../inc/customizer.php:81
+msgid "Facebook Link :"
+msgstr ""
+
+#: ../inc/customizer.php:93
+msgid "Twitter Link :"
+msgstr ""
+
+#: ../inc/customizer.php:105
+msgid "Behance Link :"
+msgstr ""
+
+#: ../inc/customizer.php:117
+msgid "BitBucket Link :"
+msgstr ""
+
+#: ../inc/customizer.php:129
+msgid "GitHub Link :"
+msgstr ""
+
+#: ../inc/customizer.php:141
+msgid "InstaGram Link :"
+msgstr ""
+
+#: ../inc/customizer.php:153
+msgid "YouTube Link :"
+msgstr ""
+
+#: ../inc/customizer.php:165
+msgid "Dribble Link :"
+msgstr ""
+
+#: ../inc/customizer.php:177
+msgid "Google Plus Link :"
+msgstr ""
+
+#: ../inc/customizer.php:189
+msgid "Tunblr Link :"
+msgstr ""
+
+#: ../inc/customizer.php:201
+msgid "Vine Link :"
+msgstr ""
+
+#: ../inc/customizer.php:213
+msgid "WordPress Link :"
+msgstr ""
+
+#: ../inc/customizer.php:225
+msgid "Spotify Link :"
+msgstr ""
+
+#: ../inc/customizer.php:237
+msgid "SoundCloud Link :"
+msgstr ""
+
+#: ../inc/customizer.php:249
+msgid "Reddit Link :"
+msgstr ""
+
+#: ../inc/customizer.php:261
+msgid "Pinterest Link :"
+msgstr ""
+
+#: ../inc/customizer.php:273
+msgid "LinkedIn Link :"
+msgstr ""
+
+#: ../inc/customizer.php:285
+msgid "Flickr Link :"
+msgstr ""
+
+#: ../inc/customizer.php:297
+msgid "StackExchange Link :"
+msgstr ""
+
+#: ../inc/customizer.php:305
+msgid "Front Page Options"
+msgstr ""
+
+#: ../inc/customizer.php:315
+msgid "How many posts in recent posts section:"
+msgstr ""
+
+#: ../inc/customizer.php:327
+msgid "Show Video Section?"
+msgstr ""
+
+#: ../inc/customizer.php:340
+msgid "How many videos in video section?"
+msgstr ""
+
+#: ../inc/customizer.php:352
+msgid "Show Categories Section?"
+msgstr ""
+
+#: ../inc/customizer.php:365
+msgid "Enter category slugs seperated by comma:"
+msgstr ""
+
+#: ../inc/customizer.php:377
+msgid "How many posts in category boxes?"
+msgstr ""
+
+#: ../inc/customizer.php:385
+msgid "Single Post Options"
+msgstr ""
+
+#: ../inc/customizer.php:395
+msgid "Show Slider on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:408
+msgid "Show Title on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:421
+msgid "Show Meta on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:434
+msgid "Show Featured Image on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:447
+msgid "Show Categories on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:460
+msgid "Show Tags on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:473
+msgid "Show Author Section on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:486
+msgid "Show Nav Section on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:499
+msgid "Show Comments Section on Single Post:"
+msgstr ""
+
+#: ../inc/customizer.php:508
+msgid "Page Options"
+msgstr ""
+
+#: ../inc/customizer.php:518
+msgid "Show Slider on Page:"
+msgstr ""
+
+#: ../inc/customizer.php:531
+msgid "Show Title on Page:"
+msgstr ""
+
+#: ../inc/customizer.php:544
+msgid "Show Featured Image on Page:"
+msgstr ""
+
+#: ../inc/customizer.php:557
+msgid "Show Comments on Page:"
+msgstr ""
+
+#: ../inc/customizer.php:566
+msgid "Archive Pages Options"
+msgstr ""
+
+#: ../inc/customizer.php:576
+msgid "Show Slider on Archive Pages:"
+msgstr ""
+
+#: ../inc/customizer.php:589
+msgid "Show Excerpt instead of content on Archive Pages:"
+msgstr ""
+
+#: ../inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:25
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template-tags.php:71
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:74
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: ../inc/template-tags.php:75
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: ../inc/template-tags.php:105
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: ../inc/template-tags.php:113
+msgid "No Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid " Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:117
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:121
+msgid "Comments Closed"
+msgstr ""
+
+#: ../inc/template-tags.php:178
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:192
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/template-tags.php:198
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:209
+msgid "Your comment is awaiting moderation."
+msgstr ""
